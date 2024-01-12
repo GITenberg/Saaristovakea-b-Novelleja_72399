@@ -1,0 +1,34 @@
+_repo: Saaristovakea-b-Novelleja_72399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Koskelainen, Yrjö
+    alias: Koskelainen, Yrjo
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '44560'
+    url: http://www.gutenberg.org/2009/agents/44560
+    wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Koskelainen
+description: ''
+gutenberg_issued: '2023-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72399'
+language: fi
+pgterms:marc905: 20231105055435koskelaine
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Kehto -- Kalle-Kustaan tupa -- Mestarivaras -- Uskovaisia -- Simsörin
+  Johannes -- Naapurit.
+title: 'Saaristoväkeä : $b Novelleja'
+url: http://www.gutenberg.org/ebooks/72399
