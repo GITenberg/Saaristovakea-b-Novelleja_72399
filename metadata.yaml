@@ -1,5 +1,8 @@
 _repo: Saaristovakea-b-Novelleja_72399
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Koskelainen, Yrjö
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44560
     wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Koskelainen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72399#Saaristovakea-b-Novelleja
 gutenberg_issued: '2023-12-13'
 gutenberg_type: Text
 identifiers:
